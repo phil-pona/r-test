@@ -1,8 +1,5 @@
 name: "My R Site"
 output_dir: "_site"
-rmd_files:
-  - index.Rmd
-  - Rmd/report.Rmd
 navbar:
   title: "My Site"
   left:
