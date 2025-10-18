@@ -1,11 +1,17 @@
 ---
-title: "My R Markdown Site"
-output: html_document
+title: "Data Analysis"
+author: "Your Name"
+date: today
+format: 
+    html:
+        toc: true
+        code-fold: true
 ---
 
-# Welcome
+# Analysyes
 
-This is my first R Markdown page!
+## Overview
+Brief description of your analysis project.
 
 ## Scatter Plot Example
 

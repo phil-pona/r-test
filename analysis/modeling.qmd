@@ -1,0 +1,16 @@
+---
+title: "Data Modeling"
+author: "Your Name"
+date: today
+format: 
+    html:
+        toc: true
+        code-fold: true
+---
+
+# Modeling
+
+## Overview
+Brief description of your analysis project.
+
+# Data Preparation

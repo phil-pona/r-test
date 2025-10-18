@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "My Data Science Project"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: analysis/analysis.qmd
+        text: "Analysis Overview"
+      - href: analysis/modeling.qmd
+        text: "Analysis Modeling"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    code-tools: true
+
+execute:
+  freeze: auto
+  warning: false
+  message: false
